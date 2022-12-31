@@ -1,4 +1,4 @@
-# 🧑‍💻 IPassword Generator
+# 🧑‍💻 Password Generator
 
 <p align="left">
   <!-- License -->
